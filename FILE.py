@@ -169,7 +169,7 @@ logo=(f"""\x1b[1;97m
  Github    : JOKER KHANOO
  Facebook  : SHAHI JOKER 
  Tool Type : \033[1;31mFREE\033[1;37m
- Version   : \033[1;36m2.8\033[1;37m
+ Version   : \033[1;36m0.5\033[1;37m
 \033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m
 """)
 def linex():
@@ -223,7 +223,7 @@ def Fof():
 			pcp.append(f'n')
 		else:
 			pcp.append(f'y')
-		with tred(max_workers=30) as crack_submit:
+		with tred(max_workers=90) as crack_submit:
 			clear()
 			total_ids = str(len(fo))
 			print(f' Total Account : \033[1;32m'+total_ids+f' \n \033[1;37mMethod : \033[1;32mM{mthd}\033[1;37m')
