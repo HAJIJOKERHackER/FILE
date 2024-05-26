@@ -255,7 +255,7 @@ SM-F952H
 SM-Y608N
 SM-C736V""".splitlines()
 
-os.system('xdg-open https://t.me/+sNzWUHB7LS5kZjU1')
+os.system('xdg-open https://www.facebook.com/duliako')
 totaldmp = 0
 count = 0
 loop = 0
@@ -305,15 +305,14 @@ logo ="""\033[1;32m
 \033[1;39m      MM MM      MM MM YM.    MM         MM  \M\    
 \033[1;39m(8)   MM YM      M9 MM  YM.   MM         MM   \M\   
 \033[1;31m((   ,M9  8b    d8  MM   YM.  MM      /  MM    \M\  
-\033[1;31m YMMMM9    YMMMM9  _MM_   YM._MMMMMMMMM _MM_    \M\_ 
-\033[1;32mJ \033[1;33mO \033[1;34mK \033[1;35mE \033[1;37mR~~~\033[1;37m[ALL TIME \033[1;37m FIREðŸ”¥ðŸ”¥]
-\033[1;32m--------------------------------------------------------
-\033[1;37m[\033[1;31mâ€¢\033[1;37m]\033[1;31mDEVELOPER    :   \033[1;31mJOKER-KHAN
-\033[1;37m[\033[1;32mâ€¢\033[1;37m]\033[1;32mTOOLS        :   \033[1;32mFILE-CLONE
-\033[1;37m[\033[1;33mâ€¢\033[1;37m]\033[1;33mVERSION      :   \033[1;33m 6.8.0
-\033[1;37m[\033[1;34mâ€¢\033[1;37m]\033[1;34mWORKING      :   \033[1;34mDATA/WIFI
-\033[1;37m[\033[1;35mâ€¢\033[1;37m]\033[1;35mSTATUS       :   \033[1;35mPAID
-\033[1;32m------------------------------------------------------"""
+\033[1;31m YMMMM9    YMMMM9  _MM_   YM._MMMMMMMMM _MM_    \M\_   \033[1;33mVERSION  \033[1;33m6.8.0
+\033[1;32m------------------------------------------------------------
+\033[1;37m[\033[1;31m✘ 🄹 ✘\033[1;37m]\033[1;31mDEVELOPER    :   \033[1;31mJOKER-KHAN
+\033[1;37m[\033[1;32m✘ 🄾 ✘\033[1;37m]\033[1;32mTOOLS        :   \033[1;32mFILE-CLONE
+\033[1;37m[\033[1;33m✘ 🄺 ✘\033[1;37m]\033[1;33mVERSION      :   \033[1;33m6.8.0
+\033[1;37m[\033[1;34m✘ 🄴 ✘\033[1;37m]\033[1;34mWORKING      :   \033[1;34mDATA/WIFI
+\033[1;37m[\033[1;35m✘ 🅁 ✘\033[1;37m]\033[1;35mSTATUS       :   \033[1;35mPAID
+\033[1;32m------------------------------------------------------------"""
 def clear():
     os.system("clear")
     print(logo) 
@@ -328,27 +327,27 @@ def result(OKs,cps):
         print("-----------------------------------------------------")
         input("Press enter to back JOKER Menu ")
         exit()
-os.system('xdg-open https://t.me/+sNzWUHB7LS5kZjU1')
+os.system('xdg-open https://www.facebook.com/duliako')
 def JOKER():   
     os.system('clear')
     print(logo)
-    print(f'[1] File Crack')
-    print(f'[2] Join Whatsapp Group ')
-    print(f'[3] Join Messenger Group ')
+    print(f'[1] FILE CRACK')
+    print(f'[2] JOIN WHATSAPP GROUP ')
+    print(f'[3] JOIN MESSENGER GROUP ')
     print('')
     select = input('Select Menu > ')
     if select =='1':
         method_crack()
     elif select =='2':
-        os.system('xdg-open https://chat.whatsapp.com/LTBJe0upO8SIUsMXvHVAQd')
+        os.system('xdg-open https://www.facebook.com/duliako')
         pass
     elif select =='3':
-        os.system('xdg-open https://m.me/j/Abb5xIlL-jOql6rR/')
+        os.system('xdg-open https://www.facebook.com/duliako/')
     else:
         print('\n Select valid option ... ')
         time.sleep(2)
         JOKER(allkey)
-os.system('xdg-open https://t.me/+sNzWUHB7LS5kZjU1')
+os.system('xdg-open https://www.facebook.com/duliako')
 def method_crack():
     global methods
     clear()
